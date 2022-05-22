@@ -1,0 +1,85 @@
+html {
+    font-family: "Palatino Linotype";
+}
+
+body {
+    background-image: url(fondo.jpg);
+    background-image: fixed;
+}
+
+h1 {
+    font-family: "Palatino Linotype";
+    font-size: 36px
+}
+
+.White {
+    background-color: aliceblue;
+    width: 65%;
+    margin: 5% 5% 5% 30%;
+    padding: 2px
+}
+
+.Pink {
+    background-color: rgb(250, 161, 220);
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+p {
+    text-align: justify;
+    padding: 0 10%;
+    font-family: Arial;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    padding: 0 5%
+}
+
+ul {
+    padding: 0 15%;
+    text-align: justify;
+}
+
+.Add {
+    list-style-image: url("add.png");
+}
+
+.Next {
+    list-style-image: url("next.png");
+}
+
+.Blanco {
+    color: white;
+    font-size: 46px;
+    font-weight: 900;
+
+}
+
+img {
+    width: 70%;
+    margin: 8px auto;
+    display: block;
+}
+
+a {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+
+}
+.Negrita {
+    font-weight: bold;
+}
+.Rojo {
+    color:red;
+}
+.Azul { 
+    color:blue;
+}
+.RojoNegrita {
+    font-weight: bold;
+    color: red;
+}
